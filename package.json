@@ -1,6 +1,7 @@
 {
   "name": "hr-workflow-designer",
   "private": true,
+  "homepage": "https://MauryaKandhari.github.io/hr-workflow",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
