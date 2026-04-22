@@ -20,7 +20,7 @@ A visual, drag-and-drop HR workflow builder built with **React**, **TypeScript**
 
 ```bash
 # 1. Clone the repository
-git clone <your-repo-url>
+git clone https://mauryakandhari.github.io/hr-workflow/
 cd hr-workflow-designer
 
 # 2. Install dependencies
